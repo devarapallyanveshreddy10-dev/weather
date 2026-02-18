@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 7rem;
+}
+
+.weather {
+    height: 400px;
+    width: 330px;
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #8721FF 100%);
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.weather img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+.user-input {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.user-input input {
+    height: 2rem;
+    width: 13rem;
+    border-radius: 10px;
+    padding-left: 5px;
+}
+
+.icon img {
+    height: 100px;
+}
+
+.user-input button {
+    padding: 7px;
+    border: none;
+    background-image: linear-gradient(135deg, #bad9f8 10%, #0396FF 100%);
+    color: white;
+    border-radius: 5px;
+}
+
+.temp {
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.description {
+    margin-top: 10px;
+    font-size: 22px;
+    color: white;
+}
+
+.CityName {
+    margin-top: 10px;
+    font-size: 22px;
+    color: white;
+}
