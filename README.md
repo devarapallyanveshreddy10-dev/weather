@@ -79,7 +79,7 @@ Replace the API key in `script.js` with your own API key if needed.
 - Beginner-friendly and readable code
 
 ---
-## excution images
+## Excution images
 <img width="1908" height="1017" alt="Screenshot 2026-02-18 180059" src="https://github.com/user-attachments/assets/f74b512b-534e-4261-8b4c-863859da9310" />
 <img width="1919" height="1020" alt="Screenshot 2026-02-18 180117" src="https://github.com/user-attachments/assets/691f1c0a-84a7-46df-87f5-3898164c2201" />
 
