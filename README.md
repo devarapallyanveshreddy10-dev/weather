@@ -1,5 +1,3 @@
-﻿‣敗瑡敨⁲灁⁰
-
 # Weather App
 
 ## Project Description
@@ -26,8 +24,6 @@ The app fetches live weather data from the **OpenWeatherMap API**.
 ## Project Structure
 Weather-App/
 -
-│
-- 
 ├── index.html → Main HTML file
 - 
 ├── style.css → CSS file for styling
