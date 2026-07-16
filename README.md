@@ -66,6 +66,7 @@ Weather-App/
 https://api.openweathermap.org/data/2.5/weather
 
 
+
  **Note:**  
 An API key is required.  
 Replace the API key in `script.js` with your own API key if needed.
